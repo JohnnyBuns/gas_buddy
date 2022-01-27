@@ -1,0 +1,3 @@
+
+class gasException(Exception):
+    pass
