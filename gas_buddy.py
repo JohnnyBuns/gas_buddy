@@ -8,7 +8,7 @@ import gas_timer
 import asyncio
 
 client = discord.Client()
-TOKEN = 'OTMyNTM5NjA5OTkxMjQ1ODI0.YeUdMA.d5DwKe98xFNdBLhTIHifLyvE2uc'
+TOKEN = 'your token here'
 notify_list = {}
 gas_updater = gas_timer.gas_updater()
 embed_color =0xCFB408
